@@ -1,0 +1,54 @@
+# Pokemon Center TCG Monitor Configuration
+
+ntfy:
+  # Set via NTFY_TOPIC environment variable (or fill in here for local use)
+  topic: "pokemon-drops-hf2026"
+  server: "https://ntfy.sh"
+
+monitoring:
+  # Category pages to scan for new products
+  category_urls:
+    - "https://www.pokemoncenter.com/category/tcg-cards"
+
+  # How often to check (seconds) — GitHub Actions minimum is 300 (5 min)
+  # This controls delay between product page checks within a single run
+  request_delay_min: 1.5
+  request_delay_max: 3.5
+
+  # Keywords to identify products worth tracking for restocks
+  # Products matching any keyword will be monitored for sold-out → in-stock transitions
+  priority_keywords:
+    - "elite trainer box"
+    - "etb"
+    - "booster box"
+    - "booster bundle"
+    - "collection box"
+    - "tin"
+    - "ultra premium"
+    - "special collection"
+    - "display"
+
+  # Keywords to EXCLUDE (non-card TCG products we don't care about)
+  exclude_keywords:
+    - "sleeve"
+    - "binder"
+    - "album"
+    - "dice"
+    - "playmat"
+    - "portfolio"
+    - "deck box"
+    - "card case"
+    - "accessories"
+
+fetcher:
+  # curl_cffi browser impersonation target
+  impersonate: "chrome124"
+
+  # Request timeout in seconds
+  timeout: 30
+
+  # Max retries per request
+  max_retries: 3
+
+  # Retry delay in seconds
+  retry_delay: 5

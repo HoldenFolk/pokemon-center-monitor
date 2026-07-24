@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+*.egg-info/
+dist/
+
+# Browser session data — machine-specific, contains cookies
+.playwright-data/

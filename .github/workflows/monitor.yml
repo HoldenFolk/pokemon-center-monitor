@@ -1,0 +1,126 @@
+name: Pokemon Center TCG Monitor
+
+on:
+  schedule:
+    # Every 5 minutes (GitHub's minimum interval)
+    - cron: "*/5 * * * *"
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Dry run (log only, no notifications)"
+        required: false
+        default: "false"
+        type: boolean
+      test_notify:
+        description: "Send a test notification and exit"
+        required: false
+        default: "false"
+        type: boolean
+
+permissions:
+  contents: write
+
+jobs:
+  # ─────────────────────────────────────────────────────────────────────────────
+  # Job 1: NEW PRODUCT DETECTION (cloud-safe, no browser required)
+  #
+  # Uses the Bloomreach Discovery API — a plain HTTP call that works from any
+  # server or GitHub-hosted runner without bot detection. Detects when new TCG
+  # products appear in the Pokemon Center catalog.
+  #
+  # Works on: ubuntu-latest (free GitHub-hosted runner)
+  # Limitation: cannot detect restocks (Bloomreach has no availability data)
+  # ─────────────────────────────────────────────────────────────────────────────
+  new-products:
+    name: New Product Detection (cloud)
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: "pip"
+
+      - name: Install dependencies
+        run: pip install requests pyyaml
+
+      - name: Detect new TCG products
+        env:
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+        run: |
+          if [ "${{ github.event.inputs.test_notify }}" = "true" ]; then
+            python cloud_monitor.py --test-notify
+          elif [ "${{ github.event.inputs.dry_run }}" = "true" ]; then
+            python cloud_monitor.py --dry-run
+          else
+            python cloud_monitor.py
+          fi
+
+      - name: Commit updated state
+        run: |
+          git config user.name "pokemon-monitor[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git pull --rebase origin ${{ github.ref_name }} 2>/dev/null || true
+          git add bloomreach_state.json
+          if git diff --staged --quiet; then
+            echo "No state changes"
+          else
+            git commit -m "chore: update bloomreach state [skip ci]"
+            git push
+          fi
+
+  # ─────────────────────────────────────────────────────────────────────────────
+  # Job 2: RESTOCK DETECTION (self-hosted Mac runner required)
+  #
+  # Uses Playwright with a persistent Chrome session to check individual product
+  # pages for sold-out → in-stock transitions. Requires a Mac self-hosted runner
+  # so the residential IP and real Chrome session bypass DataDome/Incapsula.
+  #
+  # Setup: GitHub repo → Settings → Actions → Runners → New self-hosted runner
+  # If you haven't set up a self-hosted runner, comment out this entire job.
+  # ─────────────────────────────────────────────────────────────────────────────
+  restocks:
+    name: Restock Detection (self-hosted Mac)
+    runs-on: self-hosted
+    timeout-minutes: 8
+    # Remove the next two lines once your self-hosted runner is set up
+    continue-on-error: true
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python virtualenv (cached)
+        run: |
+          if [ ! -d ".venv" ]; then
+            python3 -m venv .venv
+            .venv/bin/pip install -r requirements.txt
+          fi
+
+      - name: Run restock monitor
+        env:
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+        run: |
+          if [ "${{ github.event.inputs.dry_run }}" = "true" ]; then
+            .venv/bin/python monitor.py --dry-run
+          else
+            .venv/bin/python monitor.py
+          fi
+
+      - name: Commit updated state
+        run: |
+          git config user.name "pokemon-monitor[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git pull --rebase origin ${{ github.ref_name }} 2>/dev/null || true
+          git add state.json
+          if git diff --staged --quiet; then
+            echo "No state changes"
+          else
+            git commit -m "chore: update monitor state [skip ci]"
+            git push
+          fi

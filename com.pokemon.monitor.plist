@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN"
+  "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>Label</key>
+  <string>com.pokemon.monitor</string>
+
+  <key>ProgramArguments</key>
+  <array>
+    <!-- Update this path to your actual python and project location -->
+    <string>/Users/hfolk/Personal/Repos/pokemon-bot/.venv/bin/python</string>
+    <string>/Users/hfolk/Personal/Repos/pokemon-bot/monitor.py</string>
+    <string>--loop</string>
+    <string>5</string>
+  </array>
+
+  <key>WorkingDirectory</key>
+  <string>/Users/hfolk/Personal/Repos/pokemon-bot</string>
+
+  <key>EnvironmentVariables</key>
+  <dict>
+    <key>NTFY_TOPIC</key>
+    <string>YOUR_NTFY_TOPIC_HERE</string>
+  </dict>
+
+  <!-- Start automatically when you log in -->
+  <key>RunAtLoad</key>
+  <true/>
+
+  <!-- Keep running (restart if it crashes) -->
+  <key>KeepAlive</key>
+  <true/>
+
+  <!-- Log output -->
+  <key>StandardOutPath</key>
+  <string>/tmp/pokemon-monitor.log</string>
+  <key>StandardErrorPath</key>
+  <string>/tmp/pokemon-monitor-error.log</string>
+</dict>
+</plist>
