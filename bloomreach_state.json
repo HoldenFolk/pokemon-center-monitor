@@ -41171,7 +41171,607 @@
       "url": "https://www.pokemoncenter.com/product/72-10212-101",
       "price": "$16.99",
       "first_seen": "2026-10-23T15:04:07.772195+00:00"
+    },
+    "70-11620-101": {
+      "name": "Pikachu Jibbitz Shoe Charm by Crocs",
+      "url": "https://www.pokemoncenter.com/product/70-11620-101",
+      "price": "$4.99",
+      "first_seen": "2026-10-23T19:04:30.776858+00:00"
+    },
+    "70-11621-101": {
+      "name": "Eevee Jibbitz Shoe Charm by Crocs",
+      "url": "https://www.pokemoncenter.com/product/70-11621-101",
+      "price": "$4.99",
+      "first_seen": "2026-10-23T19:04:30.953962+00:00"
+    },
+    "70-11622-101": {
+      "name": "Jigglypuff Jibbitz Shoe Charm by Crocs",
+      "url": "https://www.pokemoncenter.com/product/70-11622-101",
+      "price": "$4.99",
+      "first_seen": "2026-10-23T19:04:31.132293+00:00"
+    },
+    "70-11623-101": {
+      "name": "Squirtle Jibbitz Shoe Charm by Crocs",
+      "url": "https://www.pokemoncenter.com/product/70-11623-101",
+      "price": "$4.99",
+      "first_seen": "2026-10-23T19:04:31.318261+00:00"
+    },
+    "70-11624-101": {
+      "name": "Charmander Jibbitz Shoe Charm by Crocs",
+      "url": "https://www.pokemoncenter.com/product/70-11624-101",
+      "price": "$4.99",
+      "first_seen": "2026-10-23T19:04:31.503831+00:00"
+    },
+    "70-11625-101": {
+      "name": "Pikachu Light-Up Jibbitz Shoe Charm by Crocs",
+      "url": "https://www.pokemoncenter.com/product/70-11625-101",
+      "price": "$6.99",
+      "first_seen": "2026-10-23T19:04:31.688230+00:00"
+    },
+    "70-11626-101": {
+      "name": "Pok\u00e9 Ball Jibbitz Shoe Charm by Crocs",
+      "url": "https://www.pokemoncenter.com/product/70-11626-101",
+      "price": "$6.99",
+      "first_seen": "2026-10-23T19:04:31.866418+00:00"
+    },
+    "70-11651-101": {
+      "name": "Pok\u00e9mon Skateboard Grip Tape by Santa Cruz",
+      "url": "https://www.pokemoncenter.com/product/70-11651-101",
+      "price": "$16.95",
+      "first_seen": "2026-10-23T19:04:32.044123+00:00"
+    },
+    "70-11652-101": {
+      "name": "Pok\u00e9mon Screaming Hand Trucker Hat by Santa Cruz (One Size-Youth)",
+      "url": "https://www.pokemoncenter.com/product/70-11652-101",
+      "price": "$29.95",
+      "first_seen": "2026-10-23T19:04:32.220839+00:00"
+    },
+    "70-11653-101": {
+      "name": "Pok\u00e9mon Screaming Hand Unstructured Hat by Santa Cruz (One Size-Adult)",
+      "url": "https://www.pokemoncenter.com/product/70-11653-101",
+      "price": "$29.95",
+      "first_seen": "2026-10-23T19:04:32.398660+00:00"
+    },
+    "70-12785-101": {
+      "name": "Pok\u00e9mon \u00d7 JimmyPaul by Difuzed: Mr. Mime Shoulder Bag",
+      "url": "https://www.pokemoncenter.com/product/70-12785-101",
+      "price": "$69.00",
+      "first_seen": "2026-10-23T19:04:32.580037+00:00"
+    },
+    "70-12786-101": {
+      "name": "Pok\u00e9mon \u00d7 JimmyPaul by Difuzed: Togepi Shoulder Bag",
+      "url": "https://www.pokemoncenter.com/product/70-12786-101",
+      "price": "$69.00",
+      "first_seen": "2026-10-23T19:04:32.755529+00:00"
+    },
+    "70-12787-101": {
+      "name": "Pok\u00e9mon \u00d7 JimmyPaul by Difuzed: Togepi Bucket Bag",
+      "url": "https://www.pokemoncenter.com/product/70-12787-101",
+      "price": "$59.00",
+      "first_seen": "2026-10-23T19:04:32.933245+00:00"
+    },
+    "70-12788-101": {
+      "name": "Pok\u00e9mon \u00d7 JimmyPaul by Difuzed: Togepi Hat (One Size-Adult)",
+      "url": "https://www.pokemoncenter.com/product/70-12788-101",
+      "price": "$39.00",
+      "first_seen": "2026-10-23T19:04:33.110280+00:00"
+    },
+    "70-12789-101": {
+      "name": "Pok\u00e9mon \u00d7 JimmyPaul by Difuzed: Mr. Mime Hat (One Size-Adult)",
+      "url": "https://www.pokemoncenter.com/product/70-12789-101",
+      "price": "$39.00",
+      "first_seen": "2026-10-23T19:04:33.286349+00:00"
+    },
+    "70-11149": {
+      "name": "Growlithe Maroon Crew Neck Sweater - Adult",
+      "url": "https://www.pokemoncenter.com/product/70-11149",
+      "price": "$59.99",
+      "first_seen": "2026-10-23T19:04:33.464888+00:00"
+    },
+    "70-11151": {
+      "name": "Pok\u00e9mon Holiday 2026 Blue Crew Neck Sweater - Adult",
+      "url": "https://www.pokemoncenter.com/product/70-11151",
+      "price": "$59.99",
+      "first_seen": "2026-10-23T19:04:33.642321+00:00"
+    },
+    "70-11150": {
+      "name": "Espeon Purple Crew Neck Sweater - Adult",
+      "url": "https://www.pokemoncenter.com/product/70-11150",
+      "price": "$59.99",
+      "first_seen": "2026-10-23T19:04:33.824606+00:00"
+    },
+    "70-11153": {
+      "name": "Snom Blue Cardigan - Adult",
+      "url": "https://www.pokemoncenter.com/product/70-11153",
+      "price": "$59.99",
+      "first_seen": "2026-10-23T19:04:34.001466+00:00"
+    },
+    "70-11140": {
+      "name": "Spheal & Friends Relaxed Fit Button-Up Shirt - Adult",
+      "url": "https://www.pokemoncenter.com/product/70-11140",
+      "price": "$49.99",
+      "first_seen": "2026-10-23T19:04:34.177528+00:00"
+    },
+    "70-11152": {
+      "name": "Alolan Vulpix Red & Green Turtleneck Sweater - Adult",
+      "url": "https://www.pokemoncenter.com/product/70-11152",
+      "price": "$59.99",
+      "first_seen": "2026-10-23T19:04:34.354921+00:00"
+    },
+    "70-11154": {
+      "name": "Charizard Red & Green Cardigan - Adult",
+      "url": "https://www.pokemoncenter.com/product/70-11154",
+      "price": "$59.99",
+      "first_seen": "2026-10-23T19:04:34.540581+00:00"
+    },
+    "72-11057-101": {
+      "name": "Pikachu & Clodsire Holiday Helpers Plush",
+      "url": "https://www.pokemoncenter.com/product/72-11057-101",
+      "price": "$49.99",
+      "first_seen": "2026-10-23T19:04:34.718207+00:00"
+    },
+    "72-11053-101": {
+      "name": "Pikachu Tree Holiday Helpers Plush",
+      "url": "https://www.pokemoncenter.com/product/72-11053-101",
+      "price": "$39.99",
+      "first_seen": "2026-10-23T19:04:34.894265+00:00"
+    },
+    "72-11258-101": {
+      "name": "Pikachu Pok\u00e9mon Holiday Plush - 10 \u00bd In.",
+      "url": "https://www.pokemoncenter.com/product/72-11258-101",
+      "price": "$32.99",
+      "first_seen": "2026-10-23T19:04:35.078757+00:00"
+    },
+    "72-11055-101": {
+      "name": "Snow-Covered Pikachu Holiday Helpers Plush Key Chain",
+      "url": "https://www.pokemoncenter.com/product/72-11055-101",
+      "price": "$19.99",
+      "first_seen": "2026-10-23T19:04:35.257754+00:00"
+    },
+    "72-11056-101": {
+      "name": "Pikachu Tasty Bites Holiday Helpers Plush Key Chain",
+      "url": "https://www.pokemoncenter.com/product/72-11056-101",
+      "price": "$19.99",
+      "first_seen": "2026-10-23T19:04:35.440376+00:00"
+    },
+    "72-11054-101": {
+      "name": "Pikachu & Porygon2 Holiday Helpers Plush Key Chain",
+      "url": "https://www.pokemoncenter.com/product/72-11054-101",
+      "price": "$19.99",
+      "first_seen": "2026-10-23T19:04:35.622160+00:00"
+    },
+    "70-10971-101": {
+      "name": "Alolan Vulpix Blue Fleece Socks (One Size-Adult)",
+      "url": "https://www.pokemoncenter.com/product/70-10971-101",
+      "price": "$19.99",
+      "first_seen": "2026-10-23T19:04:35.800111+00:00"
+    },
+    "70-10970-101": {
+      "name": "Vulpix Orange Fleece Socks (One Size-Adult)",
+      "url": "https://www.pokemoncenter.com/product/70-10970-101",
+      "price": "$19.99",
+      "first_seen": "2026-10-23T19:04:35.977061+00:00"
+    },
+    "70-10974-101": {
+      "name": "Eevee, Leafeon & Glaceon Evolutionary Originals Ankle Socks (3 Pairs) (One Size-Adult)",
+      "url": "https://www.pokemoncenter.com/product/70-10974-101",
+      "price": "$29.99",
+      "first_seen": "2026-10-23T19:04:36.161960+00:00"
+    },
+    "70-10968-101": {
+      "name": "Rowlet Green Crew Socks (One Size-Adult)",
+      "url": "https://www.pokemoncenter.com/product/70-10968-101",
+      "price": "$14.99",
+      "first_seen": "2026-10-23T19:04:36.337332+00:00"
+    },
+    "70-10969-101": {
+      "name": "Mimikyu Gray Crew Socks (One Size-Adult)",
+      "url": "https://www.pokemoncenter.com/product/70-10969-101",
+      "price": "$14.99",
+      "first_seen": "2026-10-23T19:04:36.515867+00:00"
+    },
+    "70-10976-101": {
+      "name": "Diglett, Alolan Diglett & Wiglett No-Show Socks (3 Pairs) (One Size-Adult)",
+      "url": "https://www.pokemoncenter.com/product/70-10976-101",
+      "price": "$19.99",
+      "first_seen": "2026-10-23T19:04:36.693772+00:00"
+    },
+    "70-10967-101": {
+      "name": "Tandemaus Black Crew Socks (One Size-Adult)",
+      "url": "https://www.pokemoncenter.com/product/70-10967-101",
+      "price": "$14.99",
+      "first_seen": "2026-10-23T19:04:36.870171+00:00"
+    },
+    "70-10972-101": {
+      "name": "Pyukumuku, Pincurchin & Snom Ankle Socks (3 Pairs) (One Size-Adult)",
+      "url": "https://www.pokemoncenter.com/product/70-10972-101",
+      "price": "$29.99",
+      "first_seen": "2026-10-23T19:04:37.048296+00:00"
+    },
+    "70-10973-101": {
+      "name": "Tinkatink, Tinkatuff & Tinkaton Ankle Socks (3 Pairs) (One Size-Adult)",
+      "url": "https://www.pokemoncenter.com/product/70-10973-101",
+      "price": "$29.99",
+      "first_seen": "2026-10-23T19:04:37.232231+00:00"
+    },
+    "70-10975-101": {
+      "name": "Pancham, Stufful & Kubfu No-Show Socks (3-Pairs) (One Size-Adult)",
+      "url": "https://www.pokemoncenter.com/product/70-10975-101",
+      "price": "$19.99",
+      "first_seen": "2026-10-23T19:04:37.409999+00:00"
+    },
+    "71-10396-101": {
+      "name": "Aurora Sighting Figure",
+      "url": "https://www.pokemoncenter.com/product/71-10396-101",
+      "price": "$79.99",
+      "first_seen": "2026-10-23T19:04:37.589646+00:00"
+    },
+    "70-10881-101": {
+      "name": "Winter Night Sky Pin Box Set (4-Pack)",
+      "url": "https://www.pokemoncenter.com/product/70-10881-101",
+      "price": "$49.99",
+      "first_seen": "2026-10-23T19:04:37.775211+00:00"
+    },
+    "71-10356-101": {
+      "name": "Winter Night Sky Large Gift Bag",
+      "url": "https://www.pokemoncenter.com/product/71-10356-101",
+      "price": "$8.99",
+      "first_seen": "2026-10-23T19:04:37.959637+00:00"
+    },
+    "71-10359-101": {
+      "name": "Festive Pikachu & Eevee Medium Gift Bag",
+      "url": "https://www.pokemoncenter.com/product/71-10359-101",
+      "price": "$7.99",
+      "first_seen": "2026-10-23T19:04:38.138922+00:00"
+    },
+    "71-10203-101": {
+      "name": "Winter Night Sky Tree Skirt",
+      "url": "https://www.pokemoncenter.com/product/71-10203-101",
+      "price": "$39.99",
+      "first_seen": "2026-10-23T19:04:38.315302+00:00"
+    },
+    "71-10346-101": {
+      "name": "Psyduck Party Gift Labels (3 Sheets)",
+      "url": "https://www.pokemoncenter.com/product/71-10346-101",
+      "price": "$12.99",
+      "first_seen": "2026-10-23T19:04:38.491713+00:00"
+    },
+    "71-10358-101": {
+      "name": "Psyduck Party Medium Gift Bag",
+      "url": "https://www.pokemoncenter.com/product/71-10358-101",
+      "price": "$7.99",
+      "first_seen": "2026-10-23T19:04:38.669598+00:00"
+    },
+    "71-10354-101": {
+      "name": "Psyduck Party Large Gift Bag",
+      "url": "https://www.pokemoncenter.com/product/71-10354-101",
+      "price": "$8.99",
+      "first_seen": "2026-10-23T19:04:38.846341+00:00"
+    },
+    "70-11158-101": {
+      "name": "Pok\u00e9mon Holiday 2026 Blue Knit Beanie (One Size-Adult)",
+      "url": "https://www.pokemoncenter.com/product/70-11158-101",
+      "price": "$24.99",
+      "first_seen": "2026-10-23T19:04:39.023097+00:00"
+    },
+    "71-10208-101": {
+      "name": "Winter Night Sky Table Runner",
+      "url": "https://www.pokemoncenter.com/product/71-10208-101",
+      "price": "$29.99",
+      "first_seen": "2026-10-23T19:04:39.199934+00:00"
+    },
+    "71-10361-101": {
+      "name": "Festive Pikachu Allover Medium Gift Bag",
+      "url": "https://www.pokemoncenter.com/product/71-10361-101",
+      "price": "$7.99",
+      "first_seen": "2026-10-23T19:04:39.379401+00:00"
+    },
+    "71-10357-101": {
+      "name": "Festive Pikachu Allover Large Gift Bag",
+      "url": "https://www.pokemoncenter.com/product/71-10357-101",
+      "price": "$8.99",
+      "first_seen": "2026-10-23T19:04:39.555206+00:00"
+    },
+    "71-10205-101": {
+      "name": "Blue Winter Night Sky Stocking",
+      "url": "https://www.pokemoncenter.com/product/71-10205-101",
+      "price": "$19.99",
+      "first_seen": "2026-10-23T19:04:39.733764+00:00"
+    },
+    "70-11157-101": {
+      "name": "Espeon Purple Knit Beanie (One Size-Adult)",
+      "url": "https://www.pokemoncenter.com/product/70-11157-101",
+      "price": "$24.99",
+      "first_seen": "2026-10-23T19:04:39.909168+00:00"
+    },
+    "70-10934-101": {
+      "name": "Mew Pok\u00e9mon Holiday Plush Hat",
+      "url": "https://www.pokemoncenter.com/product/70-10934-101",
+      "price": "$29.99",
+      "first_seen": "2026-10-23T19:04:40.087320+00:00"
+    },
+    "71-10202-101": {
+      "name": "Winter Night Sky Tea Towels (2-Pack)",
+      "url": "https://www.pokemoncenter.com/product/71-10202-101",
+      "price": "$24.99",
+      "first_seen": "2026-10-23T19:04:40.263295+00:00"
+    },
+    "71-10343-101": {
+      "name": "Festive Pikachu & Eevee Gift Tags (5-Pack)",
+      "url": "https://www.pokemoncenter.com/product/71-10343-101",
+      "price": "$9.99",
+      "first_seen": "2026-10-23T19:04:40.449745+00:00"
+    },
+    "71-10364-101": {
+      "name": "Mew Winter Night Sky Small Gift Bag",
+      "url": "https://www.pokemoncenter.com/product/71-10364-101",
+      "price": "$6.99",
+      "first_seen": "2026-10-23T19:04:40.627087+00:00"
+    },
+    "71-10363-101": {
+      "name": "Festive Pikachu Small Gift Bag",
+      "url": "https://www.pokemoncenter.com/product/71-10363-101",
+      "price": "$6.99",
+      "first_seen": "2026-10-23T19:04:40.805087+00:00"
+    },
+    "70-10933-101": {
+      "name": "Pikachu Pok\u00e9mon Holiday Plush Hat",
+      "url": "https://www.pokemoncenter.com/product/70-10933-101",
+      "price": "$29.99",
+      "first_seen": "2026-10-23T19:04:40.982384+00:00"
+    },
+    "71-10349-101": {
+      "name": "Festive Pikachu & Eevee Large Gift Box",
+      "url": "https://www.pokemoncenter.com/product/71-10349-101",
+      "price": "$8.99",
+      "first_seen": "2026-10-23T19:04:41.157658+00:00"
+    },
+    "70-11155-101": {
+      "name": "Alolan Vulpix Red & Green Knit Beanie (One Size-Adult)",
+      "url": "https://www.pokemoncenter.com/product/70-11155-101",
+      "price": "$24.99",
+      "first_seen": "2026-10-23T19:04:41.342528+00:00"
+    },
+    "70-11156-101": {
+      "name": "Growlithe Maroon Knit Beanie (One Size-Adult)",
+      "url": "https://www.pokemoncenter.com/product/70-11156-101",
+      "price": "$24.99",
+      "first_seen": "2026-10-23T19:04:41.520464+00:00"
+    },
+    "71-10345-101": {
+      "name": "Winter Night Sky Holiday Greeting Cards (10-Pack)",
+      "url": "https://www.pokemoncenter.com/product/71-10345-101",
+      "price": "$12.99",
+      "first_seen": "2026-10-23T19:04:41.703285+00:00"
+    },
+    "71-10207-101": {
+      "name": "Winter Night Sky Faux Shearling Throw Blanket",
+      "url": "https://www.pokemoncenter.com/product/71-10207-101",
+      "price": "$39.99",
+      "first_seen": "2026-10-23T19:04:41.881196+00:00"
+    },
+    "71-10209-101": {
+      "name": "Explore Pok\u00e9mon Ornaments (9-Pack)",
+      "url": "https://www.pokemoncenter.com/product/71-10209-101",
+      "price": "$44.99",
+      "first_seen": "2026-10-23T19:04:42.057278+00:00"
+    },
+    "71-10365-101": {
+      "name": "Festive Pikachu Allover Small Gift Bag",
+      "url": "https://www.pokemoncenter.com/product/71-10365-101",
+      "price": "$6.99",
+      "first_seen": "2026-10-23T19:04:42.234711+00:00"
+    },
+    "71-10360-101": {
+      "name": "Winter Night Sky Medium Gift Bag",
+      "url": "https://www.pokemoncenter.com/product/71-10360-101",
+      "price": "$7.99",
+      "first_seen": "2026-10-23T19:04:42.418238+00:00"
+    },
+    "71-10351-101": {
+      "name": "Festive Pikachu & Eevee Medium Gift Box",
+      "url": "https://www.pokemoncenter.com/product/71-10351-101",
+      "price": "$7.99",
+      "first_seen": "2026-10-23T19:04:42.594941+00:00"
+    },
+    "71-10348-101": {
+      "name": "Lugia & Ho-Oh Large Gift Box",
+      "url": "https://www.pokemoncenter.com/product/71-10348-101",
+      "price": "$8.99",
+      "first_seen": "2026-10-23T19:04:42.836002+00:00"
+    },
+    "71-10350-101": {
+      "name": "Lugia & Ho-Oh Medium Gift Box",
+      "url": "https://www.pokemoncenter.com/product/71-10350-101",
+      "price": "$7.99",
+      "first_seen": "2026-10-23T19:04:43.011848+00:00"
+    },
+    "71-10341-101": {
+      "name": "Psyduck Party Gift Tags (5-Pack)",
+      "url": "https://www.pokemoncenter.com/product/71-10341-101",
+      "price": "$9.99",
+      "first_seen": "2026-10-23T19:04:43.189395+00:00"
+    },
+    "71-10344-101": {
+      "name": "Lugia & Ho-Oh Greeting Cards (10-Pack)",
+      "url": "https://www.pokemoncenter.com/product/71-10344-101",
+      "price": "$12.99",
+      "first_seen": "2026-10-23T19:04:43.367816+00:00"
+    },
+    "71-10362-101": {
+      "name": "Psyduck Party Small Gift Bag",
+      "url": "https://www.pokemoncenter.com/product/71-10362-101",
+      "price": "$6.99",
+      "first_seen": "2026-10-23T19:04:43.544903+00:00"
+    },
+    "71-10353-101": {
+      "name": "Festive Pikachu & Eevee Small Gift Box",
+      "url": "https://www.pokemoncenter.com/product/71-10353-101",
+      "price": "$6.99",
+      "first_seen": "2026-10-23T19:04:43.729739+00:00"
+    },
+    "71-10342-101": {
+      "name": "Lugia & Ho-Oh Gift Tags (5-Pack)",
+      "url": "https://www.pokemoncenter.com/product/71-10342-101",
+      "price": "$9.99",
+      "first_seen": "2026-10-23T19:04:43.907986+00:00"
+    },
+    "71-10352-101": {
+      "name": "Lugia & Ho-Oh Small Gift Box",
+      "url": "https://www.pokemoncenter.com/product/71-10352-101",
+      "price": "$6.99",
+      "first_seen": "2026-10-23T19:04:44.092480+00:00"
+    },
+    "72-10773-101": {
+      "name": "Dusk Mane Necrozma Pok\u00e9mon Sitting Cuties Plush - 9 \u00be In.",
+      "url": "https://www.pokemoncenter.com/product/72-10773-101",
+      "price": "$16.99",
+      "first_seen": "2026-10-23T19:04:44.283717+00:00"
+    },
+    "72-10909-101": {
+      "name": "Joltik Pok\u00e9 Plush",
+      "url": "https://www.pokemoncenter.com/product/72-10909-101",
+      "price": "$29.99",
+      "first_seen": "2026-10-23T19:04:44.460809+00:00"
+    },
+    "72-10910-101": {
+      "name": "Dedenne Pok\u00e9 Plush",
+      "url": "https://www.pokemoncenter.com/product/72-10910-101",
+      "price": "$39.99",
+      "first_seen": "2026-10-23T19:04:44.641281+00:00"
+    },
+    "70-10883-101": {
+      "name": "Calyrex Pok\u00e9mon Monthly Pins: Legendary Moments Pin (10 of 12)",
+      "url": "https://www.pokemoncenter.com/product/70-10883-101",
+      "price": "$12.99",
+      "first_seen": "2026-10-23T19:04:44.817693+00:00"
+    },
+    "70-10874-101": {
+      "name": "Pok\u00e9mon Giant Pins: Glaceon Oversize Pin",
+      "url": "https://www.pokemoncenter.com/product/70-10874-101",
+      "price": "$24.99",
+      "first_seen": "2026-10-23T19:04:44.994134+00:00"
+    },
+    "70-11187-101": {
+      "name": "Cyndaquil, Quilava & Typhlosion Pok\u00e9mon Pixel Pins (3-Pack)",
+      "url": "https://www.pokemoncenter.com/product/70-11187-101",
+      "price": "$18.99",
+      "first_seen": "2026-10-23T19:04:45.169306+00:00"
+    },
+    "70-10873-101": {
+      "name": "Pok\u00e9mon Giant Pins: Sylveon Oversize Pin",
+      "url": "https://www.pokemoncenter.com/product/70-10873-101",
+      "price": "$24.99",
+      "first_seen": "2026-10-23T19:04:45.345906+00:00"
+    },
+    "70-11186-101": {
+      "name": "Totodile, Croconaw & Feraligatr Pok\u00e9mon Pixel Pins (3-Pack)",
+      "url": "https://www.pokemoncenter.com/product/70-11186-101",
+      "price": "$18.99",
+      "first_seen": "2026-10-23T19:04:45.523706+00:00"
+    },
+    "70-10854-101": {
+      "name": "Spheal Pok\u00e9mon Gallery Pin",
+      "url": "https://www.pokemoncenter.com/product/70-10854-101",
+      "price": "$14.99",
+      "first_seen": "2026-10-23T19:04:45.701277+00:00"
+    },
+    "70-11188-101": {
+      "name": "Koraidon Pok\u00e9mon Pin",
+      "url": "https://www.pokemoncenter.com/product/70-11188-101",
+      "price": "$12.99",
+      "first_seen": "2026-10-23T19:04:45.877682+00:00"
+    },
+    "70-11189-101": {
+      "name": "Charizard Pok\u00e9mon Pin",
+      "url": "https://www.pokemoncenter.com/product/70-11189-101",
+      "price": "$9.99",
+      "first_seen": "2026-10-23T19:04:46.053779+00:00"
+    },
+    "70-10851-101": {
+      "name": "Alolan Ninetales Pok\u00e9mon Gallery Pin",
+      "url": "https://www.pokemoncenter.com/product/70-10851-101",
+      "price": "$14.99",
+      "first_seen": "2026-10-23T19:04:46.233546+00:00"
+    },
+    "70-10852-101": {
+      "name": "Froslass Pok\u00e9mon Gallery Pin",
+      "url": "https://www.pokemoncenter.com/product/70-10852-101",
+      "price": "$14.99",
+      "first_seen": "2026-10-23T19:04:46.410828+00:00"
+    },
+    "70-11015-101": {
+      "name": "Mawile Pok\u00e9mon Pin",
+      "url": "https://www.pokemoncenter.com/product/70-11015-101",
+      "price": "$9.99",
+      "first_seen": "2026-10-23T19:04:46.596006+00:00"
+    },
+    "70-11016-101": {
+      "name": "Sableye Pok\u00e9mon Pin",
+      "url": "https://www.pokemoncenter.com/product/70-11016-101",
+      "price": "$9.99",
+      "first_seen": "2026-10-23T19:04:46.781764+00:00"
+    },
+    "70-11018-101": {
+      "name": "Skitty Pok\u00e9mon Pin",
+      "url": "https://www.pokemoncenter.com/product/70-11018-101",
+      "price": "$9.99",
+      "first_seen": "2026-10-23T19:04:46.960232+00:00"
+    },
+    "70-10850-101": {
+      "name": "Alolan Sandshrew Pok\u00e9mon Gallery Pin",
+      "url": "https://www.pokemoncenter.com/product/70-10850-101",
+      "price": "$14.99",
+      "first_seen": "2026-10-23T19:04:47.135890+00:00"
+    },
+    "70-10853-101": {
+      "name": "Frosmoth Pok\u00e9mon Gallery Pin",
+      "url": "https://www.pokemoncenter.com/product/70-10853-101",
+      "price": "$14.99",
+      "first_seen": "2026-10-23T19:04:47.316210+00:00"
+    },
+    "70-10849-101": {
+      "name": "Delibird Pok\u00e9mon Gallery Pin",
+      "url": "https://www.pokemoncenter.com/product/70-10849-101",
+      "price": "$14.99",
+      "first_seen": "2026-10-23T19:04:47.496124+00:00"
+    },
+    "70-11017-101": {
+      "name": "Delcatty Pok\u00e9mon Pin",
+      "url": "https://www.pokemoncenter.com/product/70-11017-101",
+      "price": "$9.99",
+      "first_seen": "2026-10-23T19:04:47.680827+00:00"
+    },
+    "70-11014-101": {
+      "name": "Nosepass Pok\u00e9mon Pin",
+      "url": "https://www.pokemoncenter.com/product/70-11014-101",
+      "price": "$9.99",
+      "first_seen": "2026-10-23T19:04:47.857449+00:00"
+    },
+    "70-11013-101": {
+      "name": "Meditite Pok\u00e9mon Pin",
+      "url": "https://www.pokemoncenter.com/product/70-11013-101",
+      "price": "$9.99",
+      "first_seen": "2026-10-23T19:04:48.034950+00:00"
+    },
+    "70-11012-101": {
+      "name": "Medicham Pok\u00e9mon Pin",
+      "url": "https://www.pokemoncenter.com/product/70-11012-101",
+      "price": "$9.99",
+      "first_seen": "2026-10-23T19:04:48.212252+00:00"
+    },
+    "72-10970-101": {
+      "name": "Quagsire & Clodsire Parallel Pairs Two-Plush Key Chain",
+      "url": "https://www.pokemoncenter.com/product/72-10970-101",
+      "price": "$29.99",
+      "first_seen": "2026-10-23T19:04:48.388443+00:00"
+    },
+    "72-10971-101": {
+      "name": "Goodra & Hisuian Goodra Parallel Pairs Two-Plush Key Chain",
+      "url": "https://www.pokemoncenter.com/product/72-10971-101",
+      "price": "$29.99",
+      "first_seen": "2026-10-23T19:04:48.565887+00:00"
     }
   },
-  "last_run": "2026-10-23T15:04:07.772751+00:00"
+  "last_run": "2026-10-23T19:04:48.565949+00:00"
 }
