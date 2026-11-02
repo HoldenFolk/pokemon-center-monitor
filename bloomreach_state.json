@@ -41915,7 +41915,13 @@
       "url": "https://www.pokemoncenter.com/product/10-10467-109",
       "price": "$14.99",
       "first_seen": "2026-10-30T02:39:30.588264+00:00"
+    },
+    "BUNDLE1222": {
+      "name": "Galar Explore Pok\u00e9mon Bundle",
+      "url": "https://www.pokemoncenter.com/product/BUNDLE1222",
+      "price": "$34.99",
+      "first_seen": "2026-11-02T08:10:39.498918+00:00"
     }
   },
-  "last_run": "2026-11-02T01:33:35.139652+00:00"
+  "last_run": "2026-11-02T08:10:39.499653+00:00"
 }
